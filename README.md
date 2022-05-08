@@ -1,0 +1,2 @@
+# Python_portfolio_analytics_prediction_
+Full Analysis of the potential stocks. Python_portfolio_analytics_prediction_
